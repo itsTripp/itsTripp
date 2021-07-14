@@ -10,7 +10,7 @@ I am a Unity Game Designer and Level Designer with 5+ years experience in Game D
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chance-cornell/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://chancecornell.medium.com/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lolzitsTripp)
-[<img align="left" alt="Discord" src="https://img.shields.io/badge/%3CitsTripp&#1337%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>]
+[<img align="left" alt="Discord" src="https://img.shields.io/badge/%3CitsTripp&#&1337%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>]
 [<img align="left" alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/>](https://itstripp.itch.io/)
 <br>
 <br>
