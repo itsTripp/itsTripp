@@ -10,9 +10,8 @@ I am a Unity Game Designer and Level Designer with 5+ years experience in Game D
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chance-cornell/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://chancecornell.medium.com/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lolzitsTripp)
-[<img align="left" alt="Discord" src="https://img.shields.io/badge/%3CitsTripp1337%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>]
+<img align="left" alt="Discord" src="https://img.shields.io/badge/%3CitsTripp%201337%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 [<img align="left" alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/>](https://itstripp.itch.io/)
-
 <br>
 <br>
 
@@ -24,9 +23,6 @@ I am a Unity Game Designer and Level Designer with 5+ years experience in Game D
 <img align="left" alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img align="left" alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-<img align="left" alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img align="left" alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <br>
 <br>
