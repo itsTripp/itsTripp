@@ -34,11 +34,11 @@ I am a Unity Game Designer and Level Designer with 5+ years experience in Game D
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Man the shields.](https://chancecornell.medium.com/man-the-shields-894eadad1811?source=rss-64043603fc06------2)
 - [We’ve got the need… for speed](https://chancecornell.medium.com/weve-got-the-need-for-speed-8fdb0ffb1459?source=rss-64043603fc06------2)
 - [Creating the Powerup](https://chancecornell.medium.com/creating-the-powerup-bd0d6696b413?source=rss-64043603fc06------2)
 - [Creating a Triple Shot Laser](https://chancecornell.medium.com/creating-a-triple-shot-laser-d521ce5eb2c7?source=rss-64043603fc06------2)
 - [Creating aesthetics.](https://chancecornell.medium.com/creating-aesthetics-a0e730875fe5?source=rss-64043603fc06------2)
-- [Creating a spawn manager.](https://chancecornell.medium.com/creating-a-spawn-manager-d45a25d543de?source=rss-64043603fc06------2)
 <!-- BLOG-POST-LIST:END -->
 
 
