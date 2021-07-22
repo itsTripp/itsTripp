@@ -34,11 +34,11 @@ I am a Unity Game Designer and Level Designer with 5+ years experience in Game D
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Our engines are down.](https://chancecornell.medium.com/our-engines-are-down-ab450d3fdbac?source=rss-64043603fc06------2)
 - [Oh, snap! An Asteroid](https://chancecornell.medium.com/oh-snap-an-asteroid-acd183025ab7?source=rss-64043603fc06------2)
 - [Blowing up the enemy and making it look good.](https://chancecornell.medium.com/blowing-up-the-enemy-and-making-it-look-good-762d4580ce33?source=rss-64043603fc06------2)
 - [Restarting the game and making the Main Menu](https://chancecornell.medium.com/restarting-the-game-and-making-the-main-menu-f2224e8c8365?source=rss-64043603fc06------2)
 - [Lives and Game Over](https://chancecornell.medium.com/lives-and-game-over-86525bc4dc97?source=rss-64043603fc06------2)
-- [Beginning UI and scoring system.](https://chancecornell.medium.com/beginning-ui-and-scoring-system-c795b2ac80d4?source=rss-64043603fc06------2)
 <!-- BLOG-POST-LIST:END -->
 
 
