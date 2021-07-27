@@ -34,11 +34,11 @@ I am a Unity Game Designer and Level Designer with 5+ years experience in Game D
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding camera shake](https://chancecornell.medium.com/adding-camera-shake-f77d4d995020?source=rss-64043603fc06------2)
 - [Activate the thLudicrous speed.](https://chancecornell.medium.com/activate-the-thludicrous-speed-91a84b0edcdf?source=rss-64043603fc06------2)
 - [Adding the finishing touches.](https://chancecornell.medium.com/adding-the-finishing-touches-a0e3f8e133ba?source=rss-64043603fc06------2)
 - [I hear all the things.](https://chancecornell.medium.com/i-hear-all-the-things-feb1f92cdec?source=rss-64043603fc06------2)
 - [Adding Post-Processing](https://chancecornell.medium.com/adding-post-processing-db2e0beb3a34?source=rss-64043603fc06------2)
-- [Our engines are down.](https://chancecornell.medium.com/our-engines-are-down-ab450d3fdbac?source=rss-64043603fc06------2)
 <!-- BLOG-POST-LIST:END -->
 
 
