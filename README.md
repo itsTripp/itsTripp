@@ -34,11 +34,11 @@ I am a Unity Game Designer and Level Designer with 5+ years experience in Game D
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Need Ammo Here!!](https://chancecornell.medium.com/ammo-c1e10de47522?source=rss-64043603fc06------2)
 - [Creating a health powerup.](https://chancecornell.medium.com/creating-a-health-powerup-75d74b5335c5?source=rss-64043603fc06------2)
 - [Upgrading the shields](https://chancecornell.medium.com/upgrading-the-shields-735714f6d9db?source=rss-64043603fc06------2)
 - [Adding camera shake](https://chancecornell.medium.com/adding-camera-shake-f77d4d995020?source=rss-64043603fc06------2)
 - [Activate the thLudicrous speed.](https://chancecornell.medium.com/activate-the-thludicrous-speed-91a84b0edcdf?source=rss-64043603fc06------2)
-- [Adding the finishing touches.](https://chancecornell.medium.com/adding-the-finishing-touches-a0e3f8e133ba?source=rss-64043603fc06------2)
 <!-- BLOG-POST-LIST:END -->
 
 
