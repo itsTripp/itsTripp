@@ -34,11 +34,11 @@ I am a Unity Game Designer and Level Designer with 5+ years experience in Game D
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aggressive enemies, pulling powerups, and negative pickup items](https://chancecornell.medium.com/aggressive-enemies-pulling-powerups-and-negative-pickup-items-8bc094001a0?source=rss-64043603fc06------2)
 - [Zigging and Zagging the enemies.](https://chancecornell.medium.com/zigging-and-zagging-the-enemies-6d19f5aeeb78?source=rss-64043603fc06------2)
 - [A very confusing, yet simple weighted spawn system.](https://chancecornell.medium.com/a-very-confusing-yet-simple-weighted-spawn-system-5a405f0845a9?source=rss-64043603fc06------2)
 - [We can’t have unlimited power.](https://chancecornell.medium.com/we-cant-have-unlimited-power-d89aa8190a5b?source=rss-64043603fc06------2)
 - [Need Ammo Here!!](https://chancecornell.medium.com/ammo-c1e10de47522?source=rss-64043603fc06------2)
-- [Creating a health powerup.](https://chancecornell.medium.com/creating-a-health-powerup-75d74b5335c5?source=rss-64043603fc06------2)
 <!-- BLOG-POST-LIST:END -->
 
 
