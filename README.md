@@ -34,11 +34,11 @@ I am a Unity Game Designer and Level Designer with 5+ years experience in Game D
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a spray shot.](https://chancecornell.medium.com/creating-a-spray-shot-5ecbf6c41ad6?source=rss-64043603fc06------2)
 - [Weighted Enemy Spawn System](https://chancecornell.medium.com/weighted-enemy-spawn-system-b848219fe2e?source=rss-64043603fc06------2)
 - [Doing a little clean up](https://chancecornell.medium.com/doing-a-little-clean-up-748e44b83262?source=rss-64043603fc06------2)
 - [Doin’ the Wave.](https://chancecornell.medium.com/doin-the-wave-ddf5310ddc72?source=rss-64043603fc06------2)
 - [Aggressive enemies, pulling powerups, and negative pickup items](https://chancecornell.medium.com/aggressive-enemies-pulling-powerups-and-negative-pickup-items-8bc094001a0?source=rss-64043603fc06------2)
-- [Zigging and Zagging the enemies.](https://chancecornell.medium.com/zigging-and-zagging-the-enemies-6d19f5aeeb78?source=rss-64043603fc06------2)
 <!-- BLOG-POST-LIST:END -->
 
 
