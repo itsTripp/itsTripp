@@ -34,11 +34,11 @@ I am a Unity Game Designer and Level Designer with 5+ years experience in Game D
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating the boss encounters.](https://chancecornell.medium.com/creating-the-boss-encounters-7bc6d10eda6b?source=rss-64043603fc06------2)
 - [Creating a diagonal moving enemy.](https://chancecornell.medium.com/creating-a-diagonal-moving-enemy-147e435ee8c4?source=rss-64043603fc06------2)
 - [Giving the player](https://chancecornell.medium.com/giving-the-player-18c5979050c1?source=rss-64043603fc06------2)
 - [Creating a ‘Smart’ Enemy.](https://chancecornell.medium.com/creating-a-smart-enemy-6e3246c4587d?source=rss-64043603fc06------2)
 - [Allowing the enemy to destroy powerups.](https://chancecornell.medium.com/allowing-the-enemy-to-destroy-powerups-28e2f1875eba?source=rss-64043603fc06------2)
-- [Giving the enemy a dodging chance.](https://chancecornell.medium.com/giving-the-enemy-a-dodging-chance-6204c21b449a?source=rss-64043603fc06------2)
 <!-- BLOG-POST-LIST:END -->
 
 
